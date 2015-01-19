@@ -1,3 +1,3 @@
 # MAXIMISER
 my first repo
-i love :coffee:, :pizza:, :dance:
+i love :coffee:, :pizza:, :dancer:
